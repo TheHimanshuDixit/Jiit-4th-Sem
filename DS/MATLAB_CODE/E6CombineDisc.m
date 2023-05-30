@@ -1,0 +1,12 @@
+subplot(3,2,1);
+discunit();
+subplot(3,2,2);
+discunitRamp();
+subplot(3,2,3);
+discSinu();
+subplot(3,2,4);
+discExpo();
+subplot(3,2,5);
+discRect();
+subplot(3,2,6);
+discSinc();

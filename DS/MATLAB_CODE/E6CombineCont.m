@@ -1,0 +1,12 @@
+subplot(3,2,1);
+contunit();
+subplot(3,2,2);
+contunitRamp();
+subplot(3,2,3);
+contSinu();
+subplot(3,2,4);
+contExpo();
+subplot(3,2,5);
+contRect();
+subplot(3,2,6);
+contSinc();

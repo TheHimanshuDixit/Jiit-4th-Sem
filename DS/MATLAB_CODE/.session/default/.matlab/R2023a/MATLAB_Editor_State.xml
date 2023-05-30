@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Editor version="1.0">
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680006610174" name="contunitRamp.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680006622974" name="contunit.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680006642480" name="contSinu.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680006659316" name="contExpo.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680006677949" name="contRect.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680006697337" name="contSinc.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680006811417" name="CombineCont.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680007052726" name="CombineDisc.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680007233608" name="discunitRamp.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680007242366" name="discunit.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680007373921" name="discExpo.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680007650003" name="discSinc.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1680007744234" name="discSinu.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1681230969764" name="discRect.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1681847744017" name="QuantisationProcess.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1681847769229" name="ReconsructionProcess.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1682451862224" name="Code1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1682452076769" name="Code2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1682933620108" name="E9BPSK.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1682934288152" name="NAND2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1682934299420" name="NAND3.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1682934310460" name="NOR.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1682934461785" name="Test.m">
+      <CodeFolds version="1.0"/>
+   </File>
+</Editor>
